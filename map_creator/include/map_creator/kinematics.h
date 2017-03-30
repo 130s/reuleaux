@@ -3,7 +3,8 @@
 #define IKFAST_NO_MAIN
 
 #define IK_VERSION 61
-#include "mh5_ikfast.cpp"
+//#include "mh5_ikfast.cpp"
+#include "nextage_left_arm_ikfast_solver.cpp"
 #include <stdio.h>
 #include <stdlib.h>
 #include <vector>
